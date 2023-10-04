@@ -1,0 +1,16 @@
+Algrithme AgeCatecory
+Variable 
+  a:entier
+Debut
+  ecrire("enter the age ")
+  lire(a)
+  si n >6 et n<8
+    ecrire("p")
+  sinon 
+    si n>8 and n <10
+      ecrire("a")
+    sinon n >10 and n>12
+      ecrire("s")
+    fin si
+  finsi
+fin
